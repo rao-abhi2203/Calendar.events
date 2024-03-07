@@ -1,2 +1,2 @@
 # Calendar.events
-Its a responsive calendars with events
+It's a responsive calendars with events
